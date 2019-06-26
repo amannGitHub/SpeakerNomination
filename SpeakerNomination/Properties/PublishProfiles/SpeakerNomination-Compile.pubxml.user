@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\SpeakerNomination-Local</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/Export.aspx">
+      <publishTime>02/21/2019 14:55:18</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>02/07/2019 14:58:40</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>02/07/2019 14:58:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>02/07/2019 14:58:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/07/2019 14:58:36</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/SpeakerNomination.dll">
+      <publishTime>06/17/2019 10:42:37</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>02/07/2019 14:58:41</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>02/07/2019 14:58:34</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>02/07/2019 14:58:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>02/11/2019 11:25:05</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>02/11/2019 11:19:50</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>06/17/2019 10:12:34</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>02/07/2019 14:58:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/07/2019 14:58:34</publishTime>
+    </File>
+    <File Include="images/OBSSRLogo_120x120.jpg">
+      <publishTime>02/08/2019 11:23:46</publishTime>
+    </File>
+    <File Include="images/OBSSRLogo_50x50.png">
+      <publishTime>02/08/2019 11:35:45</publishTime>
+    </File>
+    <File Include="images/OBSSR_logo-header.png">
+      <publishTime>02/08/2019 11:34:14</publishTime>
+    </File>
+    <File Include="NominationConfirmation.aspx">
+      <publishTime>02/11/2019 15:05:09</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/07/2019 14:58:42</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>02/07/2019 14:58:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>02/07/2019 14:58:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>02/07/2019 14:58:38</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>02/07/2019 14:58:38</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>02/07/2019 14:58:38</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>02/07/2019 14:58:39</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>02/11/2019 11:31:29</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>06/17/2019 10:34:18</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>02/07/2019 14:58:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/17/2019 10:42:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
